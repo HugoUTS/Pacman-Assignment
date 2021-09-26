@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40DB70B5-49D0-D3BE-18D8-F28CBB156472}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Animated Sprite.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Animated Sprite.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4497f025-00a6-4223-95ad-19c3191d4f70" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
