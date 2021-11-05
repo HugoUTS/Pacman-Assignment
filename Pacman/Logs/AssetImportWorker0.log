@@ -631,3 +631,42 @@ System memory in use after: 209.9 MB.
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2337.
 Total: 3.717179 ms (FindLiveObjects: 0.493519 ms CreateObjectMapping: 0.187270 ms MarkObjects: 2.456405 ms  DeleteObjects: 0.578058 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.7 MB.
+System memory in use after: 210.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 5.451829 ms (FindLiveObjects: 0.469555 ms CreateObjectMapping: 0.136620 ms MarkObjects: 3.950105 ms  DeleteObjects: 0.892657 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3118.675027 seconds.
+  path: Assets/Scenes/StartScene.unity
+  artifactKey: Guid(523cd63ab0b49439abfd31602e36373f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScene.unity using Guid(523cd63ab0b49439abfd31602e36373f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b311b3076e25a5a99cd02788c885174') in 0.015647 seconds
+  Import took 0.019344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004490 seconds.
+  path: Assets/Scenes/StartScene.unity
+  artifactKey: Guid(523cd63ab0b49439abfd31602e36373f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScene.unity using Guid(523cd63ab0b49439abfd31602e36373f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b311b3076e25a5a99cd02788c885174') in 0.002524 seconds
+  Import took 0.007114 seconds .
+
